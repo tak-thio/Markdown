@@ -1,0 +1,19 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Output files (optional)
+output/
+*.pdf
+
+# Personal notes
+personal-notes/
