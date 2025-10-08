@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "e91b034bc8de3d8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dec47fc6ee0c0d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "482cefb9d7741d1a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8b7f48e974d32d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba16ff7c56e95d18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2456ed828c9e39bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "bc87806e3ec31919",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "156b98c597abfdea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62849367698efc3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "95b165b75a472804",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21731d7bad26fa6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "86ae34dac5cb5fc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "531e370573e06d6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "8e350b9b5cf94733",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "482cefb9d7741d1a",
+  "lastOpenFiles": [
+    "Markdown/ZohoCRM_セールストークスクリプト.md",
+    "Markdown/サービス紹介とレクチャーのご案内.docx",
+    "サービス紹介とレクチャーのご案内.pdf",
+    "Markdown/サービス紹介とレクチャーのご案内.md",
+    "Markdown/取扱サービスリスト.md",
+    "Markdown/無題のファイル 1.md",
+    "Markdown/Obsidian入門ガイド.md",
+    "Markdown/無題のファイル.md",
+    "Markdown/無題のフォルダ",
+    "Markdown/Welcome.md",
+    "Markdown"
+  ]
+}

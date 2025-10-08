@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "4198fba14f74f60d",
+    "type": "split",
+    "children": [
+      {
+        "id": "700e13b595533100",
+        "type": "split",
+        "children": [
+          {
+            "id": "24d0ed00cc3bd874",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5cd3870e84418c49",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ZohoCRM_セールストークスクリプト.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ZohoCRM_セールストークスクリプト"
+                }
+              }
+            ]
+          },
+          {
+            "id": "0d81c7c05fd7628e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7ff40891571bc461",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/tak/Documents/Git/MarkdownProject/Markdown",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: Gemini - Markdown"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c1199efa54684fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6829e2b3e3a4f1b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7660d4bfaa32fd73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "872f6a9be82a9062",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "a4e5c5eea0761f7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86465371ac02a556",
+    "type": "split",
+    "children": [
+      {
+        "id": "83834a2880990774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b10e463c2ad052",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ZohoCRM_セールストークスクリプト.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ZohoCRM_セールストークスクリプトへのバックリンク"
+            }
+          },
+          {
+            "id": "fabf4eea2f3188db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ZohoCRM_セールストークスクリプト.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ZohoCRM_セールストークスクリプトからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "b4596c9e1e2ca02b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "0d858144edf3c3da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ZohoCRM_セールストークスクリプト.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ZohoCRM_セールストークスクリプトのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "5cd3870e84418c49",
+  "lastOpenFiles": [
+    "ZohoCRM_セールストークスクリプト.md",
+    "サービス紹介とレクチャーのご案内.md",
+    "サービス紹介とレクチャーのご案内.docx",
+    "取扱サービスリスト.md",
+    "無題のファイル.md",
+    "Welcome.md",
+    "Obsidian入門ガイド.md",
+    "無題のフォルダ"
+  ]
+}
